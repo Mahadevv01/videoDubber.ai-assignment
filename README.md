@@ -34,9 +34,5 @@ This project involves building an audio cutter tool similar to [VocalRemover Cut
    - Use Mantine's built-in components for buttons, sliders, and any other UI elements where possible.
    - Do not use **Tailwind CSS**.
 
-### Evaluation Criteria
-- **Use of Mantine UI**: This is critical to the project, and failure to use Mantine will result in disqualification.
-- **UI Completion**: The initial landing page look must be completed, accounting for 60% of the evaluation.
-- **Left-side Button UI**: Though functionality is not required, the buttons on the left side must be designed and implemented.
-  
+
 
